@@ -1,0 +1,13 @@
+.app {
+  padding: 30px;
+  background-color: white;
+}
+.button:hover {
+  background-color: #1570e7;
+}
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
